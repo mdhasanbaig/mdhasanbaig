@@ -5,7 +5,8 @@ CSE  Student | Full Stack Developer | Machine Learning Enthusiast
 </h3>
 
 <p align="center">
-  <img src="[banner.png](https://media.licdn.com/dms/image/v2/D5616AQGpUCgxWYeHmQ/profile-displaybackgroundimage-shrink_350_1400/B56ZduAQ4kGQAY-/0/1749897253597?e=1783555200&v=beta&t=qWc2az2bEmUBNIxe2vNHjGXn4NVDS6SuWklI4_OhipU)" width="100%">
+  <img src="<img width="1080" height="270" alt="image" src="https://github.com/user-attachments/assets/38a3d9f9-7b85-4e04-81e7-4940ebc81d61" />
+" width="100%">
 </p>
 
 ---
