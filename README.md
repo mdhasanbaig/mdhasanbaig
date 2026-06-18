@@ -4,6 +4,10 @@
 CSE  Student | Full Stack Developer | Machine Learning Enthusiast
 </h3>
 
+<p align="center">
+  <img src="banner.png" width="100%">
+</p>
+
 ---
 
 ## 🚀 About Me
