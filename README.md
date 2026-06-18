@@ -1,18 +1,18 @@
 <h1 align="center">Hi 👋, I'm Mohammed Hasan Baig</h1>
 
 <h3 align="center">
-CSE (AI & ML) Student | Full Stack Developer | Machine Learning Enthusiast
+CSE  Student | Full Stack Developer | Machine Learning Enthusiast
 </h3>
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 B.Tech CSE (AI & ML)
+- 🎓 B.Tech CSE 
 - 💻 MERN Stack Developer
-- 🤖 Interested in AI, ML & Data Science
+- 🤖 Interested in AI, ML & Data Science, full-stack development
 - 🌱 Currently learning Advanced Full Stack Development
-- 📫 Reach me: your-email@example.com
+- 📫 Reach me: mohammedhasanbaig61@gmail.com
 
 ---
 
@@ -59,4 +59,4 @@ AI-powered resume analysis using Python and NLP.
 
 ## 🌐 Connect With Me
 
-[LinkedIn](YOUR_LINKEDIN_URL)
+[LinkedIn](https://www.linkedin.com/in/mohammed-hasan-baig/)
