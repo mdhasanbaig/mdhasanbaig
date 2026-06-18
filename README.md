@@ -5,8 +5,7 @@ CSE  Student | Full Stack Developer | Machine Learning Enthusiast
 </h3>
 
 <p align="center">
-  <img src="<img width="1080" height="270" alt="image" src="https://github.com/user-attachments/assets/38a3d9f9-7b85-4e04-81e7-4940ebc81d61" />
-" width="100%">
+  <img src="banner.png" width="100%">
 </p>
 
 ---
