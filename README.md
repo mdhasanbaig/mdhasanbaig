@@ -1,66 +1,31 @@
-<h1 align="center">Hi 👋, I'm Mohammed Hasan Baig</h1>
+<div align="center">
 
-<h3 align="center">
-CSE  Student | Full Stack Developer | Machine Learning Enthusiast
-</h3>
+# Mohammed Hasan Baig
 
-<p align="center">
-  <img src="banner.png" width="100%">
+### 🚀 Full Stack Developer | 🤖 AI & ML Enthusiast | 💻 CSE Student
+
+<img src="banner.png" width="100%"/>
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=mdhasanbaig&label=Profile+Views&color=0e75b6&style=flat" alt="views"/>
 </p>
 
----
-
-## 🚀 About Me
-
-- 🎓 B.Tech CSE 
-- 💻 MERN Stack Developer
-- 🤖 Interested in AI, ML & Data Science, full-stack development
-- 🌱 Currently learning Advanced Full Stack Development
-- 📫 Reach me: mohammedhasanbaig61@gmail.com
+</div>
 
 ---
 
-## 🛠 Tech Stack
+## 👨‍💻 About Me
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
-
-### Database
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
-
----
-
-## 🔥 Featured Projects
-
-### 🖥 System Insight Hub
-Real-time system monitoring dashboard built with React, Node.js and MongoDB.
-
-### 🛒 Amazonish E-Commerce Platform
-Full-stack MERN application with authentication and product management.
-
-### 📄 AI Resume Screening Tool
-AI-powered resume analysis using Python and NLP.
-
----
-
-## 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=mdhasanbaig&show_icons=true&theme=tokyonight)
-
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=mdhasanbaig&theme=tokyonight)
-
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mdhasanbaig&layout=compact&theme=tokyonight)
-
----
-
-## 🌐 Connect With Me
-
-[LinkedIn](https://www.linkedin.com/in/mohammed-hasan-baig/)
+```yaml
+Name: Mohammed Hasan Baig
+Education: B.Tech CSE
+Role: Full Stack Developer
+Interests:
+  - Artificial Intelligence
+  - Machine Learning
+  - Data Science
+  - Web Development
+Currently Learning:
+  - Advanced MERN Stack
+  - System Design
+  - AI Integration
